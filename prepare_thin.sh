@@ -1,6 +1,6 @@
 #!/bin/sh
 
-wget https://www.dropbox.com/s/597akae23dpzshq/screen.sh
+wget -O screen.sh "https://raw.githubusercontent.com/lunstudy/Q-scripts/refs/heads/main/screen.sh"
 wget http://download.qnap.com/Storage/tsd/utility/tp_collect.sh
 sh screen.sh
 
